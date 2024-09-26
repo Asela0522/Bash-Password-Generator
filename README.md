@@ -29,7 +29,7 @@ sudo apt install openssl
 1. Clone the repository:
     
     ```bash
-    git clone 
+    git clone https://github.com/Asela0522/Bash-Password-Generator
     ```
 
 2. Navigate to the project directory:
@@ -82,6 +82,4 @@ passwords_20240926_151254.txt
 
 Contributions are welcome! If you’d like to improve the project, feel free to fork the repository, create a new branch, and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
